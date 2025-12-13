@@ -1,0 +1,121 @@
+=== MONOGRAM-INIT MAPPING ===
+cipher -> plain mapping:
+A -> J
+B -> A
+C -> U
+D -> C
+E -> X
+F -> W
+G -> F
+H -> E
+I -> D
+J -> L
+K -> Z
+L -> H
+M -> R
+N -> M
+O -> P
+P -> Q
+Q -> B
+R -> N
+S -> I
+T -> O
+U -> V
+V -> T
+W -> K
+X -> Y
+Y -> S
+Z -> G
+
+=== DIGRAM-OPT MAPPING ===
+cipher -> plain mapping:
+A -> Z
+B -> T
+C -> P
+D -> W
+E -> C
+F -> M
+G -> X
+H -> E
+I -> L
+J -> O
+K -> Y
+L -> H
+M -> F
+N -> U
+O -> J
+P -> V
+Q -> K
+R -> S
+S -> N
+T -> R
+U -> Q
+V -> A
+W -> G
+X -> D
+Y -> I
+Z -> B
+
+=== TRIGRAM-OPT MAPPING ===
+cipher -> plain mapping:
+A -> W
+B -> T
+C -> G
+D -> C
+E -> L
+F -> Y
+G -> M
+H -> E
+I -> Z
+J -> I
+K -> U
+L -> H
+M -> S
+N -> J
+O -> V
+P -> P
+Q -> B
+R -> D
+S -> R
+T -> N
+U -> X
+V -> A
+W -> K
+X -> Q
+Y -> O
+Z -> F
+
+=== COMBINED-OPT MAPPING ===
+cipher -> plain mapping:
+A -> B
+B -> T
+C -> G
+D -> V
+E -> J
+F -> F
+G -> K
+H -> E
+I -> L
+J -> I
+K -> Y
+L -> H
+M -> S
+N -> C
+O -> U
+P -> W
+Q -> P
+R -> D
+S -> R
+T -> N
+U -> M
+V -> A
+W -> Q
+X -> X
+Y -> O
+Z -> Z
+
+--- Short scores ---
+Monogram-scored (digram): 134.7
+Digram-opt score: 257.3
+Trigram-opt score: 166.6
+Combined-opt score: 480.8
